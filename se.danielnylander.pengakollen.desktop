@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Upengakollen
+Comment=Learn about money for children with IF
+Comment[sv]=Lär sig pengar
+Exec=pengakollen
+Icon=se.danielnylander.pengakollen
+Type=Application
+Categories=Education;Accessibility;
