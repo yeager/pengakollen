@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pengakollen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pengakollen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"PO-Revision-Date: 2026-02-22 16:22+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305246/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/pengakollen/main.py:20
+msgid "1 kr"
+msgstr "1 kr"
+
+#: src/pengakollen/main.py:21
+msgid "2 kr"
+msgstr "2 kr"
+
+#: src/pengakollen/main.py:22
+msgid "5 kr"
+msgstr "5 kr"
+
+#: src/pengakollen/main.py:23
+msgid "10 kr"
+msgstr "10 kr"
+
+#: src/pengakollen/main.py:26
+msgid "20 kr"
+msgstr "20 kr"
+
+#: src/pengakollen/main.py:27
+msgid "50 kr"
+msgstr "50 kr"
+
+#: src/pengakollen/main.py:28
+msgid "100 kr"
+msgstr "100 kr"
+
+#: src/pengakollen/main.py:31
+msgid "Apple"
+msgstr "Äpple"
+
+#: src/pengakollen/main.py:32
+msgid "Juice"
+msgstr "Juice"
+
+#: src/pengakollen/main.py:33
+msgid "Sandwich"
+msgstr "Macka"
+
+#: src/pengakollen/main.py:34
+msgid "Ice cream"
+msgstr "Glass"
+
+#: src/pengakollen/main.py:35
+msgid "Book"
+msgstr "Bok"
+
+#: src/pengakollen/main.py:36
+msgid "Toy"
+msgstr "Leksak"
+
+#: src/pengakollen/main.py:42 src/pengakollen/main.py:134
+msgid "Pengakollen"
+msgstr "Pengakollen"
+
+#: src/pengakollen/main.py:50
+msgid "About"
+msgstr "Om"
+
+#: src/pengakollen/main.py:72
+msgid "Add money:"
+msgstr "Lägg till pengar:"
+
+#: src/pengakollen/main.py:93
+msgid "Pay!"
+msgstr "Betala!"
+
+#: src/pengakollen/main.py:98
+msgid "Reset"
+msgstr "Nollställ"
+
+#: src/pengakollen/main.py:111 src/pengakollen/main.py:116
+#, python-format
+msgid "Your money: %d kr"
+msgstr "Dina pengar: %d kr"
+
+#: src/pengakollen/main.py:121
+msgid "Perfect! Exact amount! 🌟"
+msgstr "Perfekt! Exakt antal! 🌟"
+
+#: src/pengakollen/main.py:124
+#, python-format
+msgid "You get %d kr back! 💰"
+msgstr "Du fick %d kr tillbaka! 💰"
+
+#: src/pengakollen/main.py:127
+#, python-format
+msgid "You need %d kr more"
+msgstr "Du behöver ytterligare %d kr"
+
+#: src/pengakollen/main.py:137
+msgid "Learn about money"
+msgstr "Lär dig om pengar"
