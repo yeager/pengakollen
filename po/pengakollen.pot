@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pengakollen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"POT-Creation-Date: 2026-02-22 20:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgid "Toy"
 msgstr ""
 
 #: src/pengakollen/main.py:42 src/pengakollen/main.py:134
-msgid "Pengakollen"
+msgid "Money Check"
 msgstr ""
 
 #: src/pengakollen/main.py:50
