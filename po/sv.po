@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pengakollen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:22+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305246/sv/)\n"
@@ -73,45 +73,62 @@ msgstr "Bok"
 msgid "Toy"
 msgstr "Leksak"
 
-#: src/pengakollen/main.py:42 src/pengakollen/main.py:134
+#: src/pengakollen/main.py:42 src/pengakollen/main.py:193
+#: src/pengakollen/main.py:201
+msgid "Money Skills"
+msgstr "Pengakollen"
+
+#: src/pengakollen/main.py:58
 msgid "Pengakollen"
 msgstr "Pengakollen"
 
-#: src/pengakollen/main.py:50
+#: src/pengakollen/main.py:64
 msgid "About"
 msgstr "Om"
 
-#: src/pengakollen/main.py:72
+#: src/pengakollen/main.py:86
 msgid "Add money:"
 msgstr "Lägg till pengar:"
 
-#: src/pengakollen/main.py:93
+#: src/pengakollen/main.py:107
 msgid "Pay!"
 msgstr "Betala!"
 
-#: src/pengakollen/main.py:98
+#: src/pengakollen/main.py:112
 msgid "Reset"
 msgstr "Nollställ"
 
-#: src/pengakollen/main.py:111 src/pengakollen/main.py:116
+#: src/pengakollen/main.py:125 src/pengakollen/main.py:130
 #, python-format
 msgid "Your money: %d kr"
 msgstr "Dina pengar: %d kr"
 
-#: src/pengakollen/main.py:121
+#: src/pengakollen/main.py:135
 msgid "Perfect! Exact amount! 🌟"
 msgstr "Perfekt! Exakt antal! 🌟"
 
-#: src/pengakollen/main.py:124
+#: src/pengakollen/main.py:138
 #, python-format
 msgid "You get %d kr back! 💰"
 msgstr "Du fick %d kr tillbaka! 💰"
 
-#: src/pengakollen/main.py:127
+#: src/pengakollen/main.py:141
 #, python-format
 msgid "You need %d kr more"
 msgstr "Du behöver ytterligare %d kr"
 
-#: src/pengakollen/main.py:137
+#: src/pengakollen/main.py:174
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/pengakollen/main.py:196
 msgid "Learn about money"
 msgstr "Lär dig om pengar"
+
+#: src/pengakollen/main.py:207
+msgid "Description here"
+msgstr "Beskrivning här"
+
+#: src/pengakollen/main.py:209
+msgid "Thanks to"
+msgstr "Tack till"
